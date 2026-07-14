@@ -6,8 +6,9 @@
 （3）公式使用标准 Markdown 数学块，彻底禁止 \tag{}，公式编号放在数学块外；禁止输出未被 $...$ 或 $$...$$ 包裹的裸 LaTeX；
 （4）完整精读报告必须直接输出在当前会话中，不得创建、保存或导出 .md、.pdf、.docx 等报告文件；
 （5）外部解读区做完外部解读后一定要标注来源；
-3. Shirley_v0.3精读案例（以VLA-JEPA为例）：
+3. Shirley_v0.3精读案例（以VLA-JEPA：https://arxiv.org/pdf/2602.10098为例）：
 deepseek（快速模式）：https://chat.deepseek.com/share/wgwqjxy7cbaf6cct1m
 豆包（专家模式）：https://www.doubao.com/thread/xed40ceea5f088a6c980939d5763f2391
 kimi（思考模式）：https://www.kimi.com/share/19f5be46-d672-8e41-8000-00009ea349c4
 chatGPT（5.6 sol 极高 标准）：https://chatgpt.com/share/6a55e766-4b8c-83ea-b705-afa0027d0c24
+GLM-5-Turbo：https://chat.z.ai/s/eff6131a-7e16-41af-bc2c-fe5c0e9b084c
